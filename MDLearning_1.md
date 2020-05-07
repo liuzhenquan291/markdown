@@ -68,7 +68,7 @@
 	<div class="center">  
 	|表头|表头|表头|  
 	|---|---|---|  
-	|内瓤|内容|内容|  
+	|内容|内容|内容|  
 	</div>  
 
 显示效果如下:
@@ -76,7 +76,7 @@
 
 |表头|表头|表头|   
 |---|---|---|  
-|内瓤|内容|内容| 
+|内容|内容|内容| 
  
 </div>  
 
@@ -94,12 +94,12 @@
 ###  6、插入区块  ###
 &emsp;&emsp;笔者理解这里的区块就类似文章标题的缩进，可以用">"加空格实现。  
 
-	\> 1、概述说明  
-	\> 2、编辑器选择
-	\> 3、语法介绍  
-	\>  
-	\> \> 3.1、标题格式  
-	\> \> 3.2、段落格式  
+	> 1、概述说明  
+	> 2、编辑器选择
+	> 3、语法介绍  
+	>  
+	> > 3.1、标题格式  
+	> > 3.2、段落格式  
 
 显示效果如下：   
 > 1、概述说明  
@@ -139,7 +139,7 @@
 ###  8、插入流程图  ##
 ## 四、本篇博客效果 ##
 &emsp;&emsp;本文的文本效果可以参考博客园[https://www.cnblogs.com/mengrui291/p/12807050.html](https://www.cnblogs.com/mengrui291/p/12807050.html "学习markdown")
-&emsp;&emsp;文本文档全内容可以参考[https://github.com/liuzhenquan291/markdown/blob/master/Markdown%E5%AD%A6%E4%B9%A0(1).md](https://github.com/liuzhenquan291/markdown/blob/master/Markdown%E5%AD%A6%E4%B9%A0(1).md)。  
+&emsp;&emsp;文本文档全内容可以参考[https://github.com/liuzhenquan291/markdown/blob/master/MDLearning_1.md](https://github.com/liuzhenquan291/markdown/blob/master/MDlearning_1.md)。  
 ## 五、注意事项  ##
 &emsp;&emsp;如果使用了 div 标签，请注意标签前后各留一空行。
 ## 六、参考资料 ##
